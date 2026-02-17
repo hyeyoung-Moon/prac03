@@ -1,4 +1,5 @@
 def hello(name):
     print(f"Hello, {name}")
 
-hello("John")
+def add(a, b):
+    return a + b
